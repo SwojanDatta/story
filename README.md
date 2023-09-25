@@ -1,2 +1,2 @@
 # story
-this if  a story though fake
+this is  a story though fake
